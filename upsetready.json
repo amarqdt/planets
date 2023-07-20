@@ -1,5 +1,5 @@
 {
-	"file": "data/upsetready.csv",
+	"file": "https://github.com/amarqdt/planets/raw/master/upsetready.csv",
 	"name": "DEGs",
 	"header": 0,
 	"separator": ";",
